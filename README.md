@@ -2,7 +2,7 @@
 
 Project Discription and Useful Links:
 
-  1. Team Arrangement and Timeline:
+  1. Arrangement and Timeline:
      https://docs.google.com/document/d/1784_e8_OdrPfxMOOuKCFfVpklk15o2JQ5GCEoLbzfAw/edit?usp=sharing 
 
   2. Problem Description:
