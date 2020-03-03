@@ -11,6 +11,3 @@ Project Discription and Useful Links:
   3. IRS 990 Filings:
     https://registry.opendata.aws/irs990/
   
-说明：
-  1. 如果准备上传的文件不确定放在哪一个文件夹内，可先放入‘Doc 杂’文件夹中，我看到会统一归类。
-  2. 如果遇到解决不了的问题在Github的issue中反应。
